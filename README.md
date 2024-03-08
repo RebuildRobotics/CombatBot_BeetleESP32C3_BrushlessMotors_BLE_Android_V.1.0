@@ -84,15 +84,6 @@ Script and controller can be also used to control basic Arduino based bots with 
   - Bot name, channel mix, weapon presets and servo angles can be updated from controller.
   - Android: Rebuild Robotics - Bot Controller (Google play/Github).
   - Iphone: Not available until MIT App invertor is ready for it.
-  
-  *****
-  SOURCES:
-  *****
-  - https://www.arduino.cc/reference/en/
-  - https://wiki.dfrobot.com/SKU_DFR0868_Beetle_ESP32_C3
-  - https://github.com/khoih-prog/ESP32_C3_ISR_Servo
-  - https://docs.espressif.com/projects/esp-idf/en/v4.4/esp32c3/api-reference/peripherals/adc.html
-  - https://www.arduino.cc/reference/en/libraries/esp32-ble-arduino/
 
 This script and controller have been made respecting the regulations of combat robotics and they should be usable all around the world.
 Script builder and component manufacturers are not responsiple from possible damages.
